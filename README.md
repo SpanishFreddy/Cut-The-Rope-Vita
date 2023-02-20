@@ -1,7 +1,7 @@
 # Cut The Rope Vita
 This game for the psvita takes some assets and scripts from this source code: https://github.com/IllayKonon/CuttheRope
 
-![IMG_20230220_113628](https://user-images.githubusercontent.com/121837347/220084872-95ac2b64-79e5-461a-9675-af6fb39a93cb.jpg)
+![Screenshot 2023-02-20 16-24-36](https://user-images.githubusercontent.com/121837347/220146034-c19bb01b-652d-4301-88b9-995c9a4bf925.png)
 
 First Version!
 
@@ -11,10 +11,10 @@ VPK File of this port: https://drive.google.com/file/d/1vK7gLks289frrE9Bm-2EUvd_
 
 It have only 3 levels (episodes), in the future i will add more.
 
-![IMG_20230220_113633](https://user-images.githubusercontent.com/121837347/220084949-214c851b-0943-4ac9-91cb-39b603c261e8.jpg)
+![Screenshot 2023-02-20 16-24-44](https://user-images.githubusercontent.com/121837347/220146082-2e75764a-738b-4ac4-9348-9eda03ece5e7.png)
 
 The game works very good, and it adds some assets from that source code.
 
-![IMG_20230220_113638](https://user-images.githubusercontent.com/121837347/220084977-6f1579ec-3bb0-4ac9-ae90-b5569c29e057.jpg)
+![Screenshot 2023-02-20 16-24-54](https://user-images.githubusercontent.com/121837347/220146116-58b67190-9ee0-4b3f-ba1e-ac2ff20815e0.png)
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
