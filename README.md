@@ -9,9 +9,13 @@ Source Code of this port: https://drive.google.com/file/d/158JUftjyEHm3ROlArk5lp
 
 VPK File of this port: https://drive.google.com/file/d/1vK7gLks289frrE9Bm-2EUvd_uDnoMJ7h/view?usp=share_link
 
+Game made by me.
+
 It have only 3 levels (episodes), in the future i will add more.
 
 ![Screenshot 2023-02-20 16-24-44](https://user-images.githubusercontent.com/121837347/220146082-2e75764a-738b-4ac4-9348-9eda03ece5e7.png)
+
+I will add some sound effects in the future.
 
 The game works very good, and it adds some assets from that source code.
 
