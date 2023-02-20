@@ -1,7 +1,7 @@
 # Cut The Rope Vita
 This game for the psvita takes some assets and scripts from this source code: https://github.com/IllayKonon/CuttheRope
 
-https://media.discordapp.net/attachments/861728001015676958/1077177290628288522/IMG_20230220_113628.jpg?width=753&height=563
+![IMG_20230220_113628](https://user-images.githubusercontent.com/121837347/220084872-95ac2b64-79e5-461a-9675-af6fb39a93cb.jpg)
 
 First Version!
 
@@ -11,14 +11,14 @@ VPK File of this port: https://drive.google.com/file/d/1vK7gLks289frrE9Bm-2EUvd_
 
 It have only 3 levels (episodes), in the future i will add more
 
-https://media.discordapp.net/attachments/861728001015676958/1077177291068678217/IMG_20230220_113633.jpg?width=753&height=563
+![IMG_20230220_113633](https://user-images.githubusercontent.com/121837347/220084949-214c851b-0943-4ac9-91cb-39b603c261e8.jpg)
 
 The game works very good, and it adds some assets from that original source code
 
-https://media.discordapp.net/attachments/861728001015676958/1077177291349700629/IMG_20230220_113638.jpg?width=753&height=563
+![IMG_20230220_113638](https://user-images.githubusercontent.com/121837347/220084977-6f1579ec-3bb0-4ac9-ae90-b5569c29e057.jpg)
 
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
 
 Controlls:
 
-Only the screen lmao
+Only the touch screen.
