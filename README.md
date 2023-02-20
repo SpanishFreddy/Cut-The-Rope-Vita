@@ -21,4 +21,6 @@ The game works very good, and it adds some assets from that source code.
 
 ![Screenshot 2023-02-20 16-24-54](https://user-images.githubusercontent.com/121837347/220146116-58b67190-9ee0-4b3f-ba1e-ac2ff20815e0.png)
 
+To play, use the screen, like the original game.
+
 If you like PSVita and you know how to do ports, you can help me whit the code talking whit me in discord: Alfredo2000#6380
